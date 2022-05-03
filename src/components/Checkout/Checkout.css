@@ -1,0 +1,20 @@
+.checkout {
+  display: flex;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.checkout__left {
+  flex: 0.7;
+  padding-left: 10px;
+}
+.checkout__right {
+  flex: 0.25;
+}
+.checkout__title {
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid gray;
+}

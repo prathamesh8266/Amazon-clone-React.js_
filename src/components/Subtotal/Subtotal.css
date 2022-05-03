@@ -1,0 +1,27 @@
+.subtotal {
+  width: 100%;
+  background-color: white;
+  max-height: 150px;
+  display: flex;
+  padding: 20px;
+  flex-direction: column;
+  margin-left: 10px;
+  border: 1px solid rgb(179, 177, 177);
+}
+.subtotal p {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+.subtotal div {
+  margin-bottom: 10px;
+}
+.subtotal button {
+  margin-top: 10px;
+  font-size: 15px;
+  background-color: #f0c14b;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  height: 45px;
+  width: 100%;
+}
